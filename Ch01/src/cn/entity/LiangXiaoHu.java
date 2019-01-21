@@ -84,7 +84,7 @@ public class LiangXiaoHu<E> {
 		return num;
 	}
 	/**
-	 * 获得最大数
+	 * 获得最小数
 	 * @param list
 	 * @return
 	 */
